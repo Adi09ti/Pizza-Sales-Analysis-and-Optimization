@@ -1,0 +1,48 @@
+🍕 Pizza Sales Dashboard
+📌 Project Overview
+
+This project analyzes pizza sales data to uncover insights that can help improve business performance. The dashboard highlights sales trends, customer preferences, and product performance. It was built by cleaning and preparing raw data using SQL and visualizing key insights using Tableau.
+
+🎯 Objectives
+
+Identify the best-performing pizzas by revenue and quantity sold.
+
+Detect the worst-performing pizzas that may need marketing adjustments or menu reconsideration.
+
+Analyze daily and monthly sales trends to understand peak demand periods.
+
+Provide data-driven insights to improve overall sales strategy.
+
+🛠 Tools & Technologies
+
+SQL → for data cleaning, transformation, and analysis.
+
+Tableau → for creating interactive dashboards and data visualization.
+
+Excel → initial exploration and formatting.
+
+📊 Key Insights from the Dashboard
+
+The top 5 pizzas account for a significant share of total revenue.
+
+Certain pizza categories (like Large & XL sizes) drive more profit compared to smaller ones.
+
+Sales peak during weekends and evenings, showing strong demand patterns.
+
+A few pizza types consistently underperform, suggesting opportunities for menu optimization.
+
+📷 Dashboard Preview
+
+(Insert a screenshot of your Tableau dashboard here)
+
+🚀 How to Use
+
+Clone this repository.
+
+Explore the SQL queries used for data preparation.
+
+Open the Tableau workbook to interact with the dashboard.
+
+📌 Conclusion
+
+This dashboard offers valuable insights into customer preferences and sales performance, enabling businesses to make informed decisions that boost revenue and optimize their menus.
